@@ -1,0 +1,14 @@
+1. I mainly use c++ for programming, and pointers are something I hate. Some C programmers are referred to as 
+“Three Star Programmers”.  However, languages like python and java which are used for this assignment do not 
+have pointers. I understand that pointers can cause memory leaks but is it the main reason we don't have it 
+anymore? We can solve problems without pointers. Is pointer outdated now? 
+
+2. Even though the assignment asked about JDK and JREs are sold separately. I have no idea why. So I have to ask back, why?
+
+3. What is reflection? We do have the definition which is “run-time access to their types and structures and 
+to be able to dynamically modify their behavior.” The applications we are writing are large and complex. Is 
+really confusing to me and hard to understand the usefulness and benefit of it. 
+
+4.   It is the first time I learned about JVM (Java virtual machine). I am not sure what it is and what it does. 
+Many high level programming languages have interpreters and compilers. They help produce results of programs or 
+translate code to assembly language. Is JVM similar to one of the above?
